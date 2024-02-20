@@ -30,17 +30,15 @@
 
 <h3>Menu Home</h3>
 <img src="https://github.com/RenanVieiraDev/TreinamentoDIO_Hospedagem_C-_Desafio/assets/47308053/9dc1e5da-fda7-4ed7-8ced-31eb88671a8e" />
-![image](https://github.com/RenanVieiraDev/TreinamentoDIO_Hospedagem_C-_Desafio/assets/47308053/9dc1e5da-fda7-4ed7-8ced-31eb88671a8e)
 
 
 <h3>Menu Hosped</h3>
-![image](https://github.com/RenanVieiraDev/TreinamentoDIO_Hospedagem_C-_Desafio/assets/47308053/a7e2424b-be39-4f42-b830-ba95a51dcef7)
+<img src="https://github.com/RenanVieiraDev/TreinamentoDIO_Hospedagem_C-_Desafio/assets/47308053/a7e2424b-be39-4f42-b830-ba95a51dcef7" />
 
 <h3>Menu de suite</h3>
-![image](https://github.com/RenanVieiraDev/TreinamentoDIO_Hospedagem_C-_Desafio/assets/47308053/32b27f85-ef76-4250-800a-d59f8771e1eb)
+<img src="https://github.com/RenanVieiraDev/TreinamentoDIO_Hospedagem_C-_Desafio/assets/47308053/32b27f85-ef76-4250-800a-d59f8771e1eb" />
 
 <h3>Menu de reservas</h3>
-![image](https://github.com/RenanVieiraDev/TreinamentoDIO_Hospedagem_C-_Desafio/assets/47308053/41b3b45d-f32d-4ccf-9831-d34dc714a6c3)
-
+<img src="https://github.com/RenanVieiraDev/TreinamentoDIO_Hospedagem_C-_Desafio/assets/47308053/41b3b45d-f32d-4ccf-9831-d34dc714a6c3" />
 
 
