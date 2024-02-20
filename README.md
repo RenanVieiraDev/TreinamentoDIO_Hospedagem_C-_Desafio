@@ -29,6 +29,7 @@
 </p>
 
 <h3>Menu Home</h3>
+<img src="https://github.com/RenanVieiraDev/TreinamentoDIO_Hospedagem_C-_Desafio/assets/47308053/9dc1e5da-fda7-4ed7-8ced-31eb88671a8e" />
 ![image](https://github.com/RenanVieiraDev/TreinamentoDIO_Hospedagem_C-_Desafio/assets/47308053/9dc1e5da-fda7-4ed7-8ced-31eb88671a8e)
 
 
